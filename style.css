@@ -1,0 +1,107 @@
+h1 {
+    color: white;
+    display: flex;
+}
+
+img{
+    width: 80%
+}
+.header{
+    background-color: #9575CD;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+    color:black
+}
+.hero{
+    background-color: c5cae9;
+    padding: 60px 45px;
+    line-height: 1.6;
+}
+.button{
+    background-color: #9575CD;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.18rem;
+}
+.features {
+    background-color: #e8eaf6;
+    padding: 60px 45px;
+}
+.features-inner{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: .5fr .5fr .5r;
+    grid-column-gap: 45px;
+}
+.featured-item h3 {
+    color: #283593;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.footer{
+    text-align: center;
+    padding: 20px 0;
+}
+.klea{
+    background-color: #8fbc8f;
+    padding: 60px 45px;
+    line-height: 1.6;
+}
+img{
+    width: 50%;
+}
+.kela{
+    background-color:#808080 ;
+    padding: 60px 45px;
+    line-height: 1.6;
+}
+.komuniko{
+    background-color: #9575CD;
+    padding: 60px 45px;
+    line-height: 1.6;
+}
+.tel{
+    background-color:#dcdcdc ;
+    display: flex;text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
+.telefon{
+    background-color:  #dcdcdc  ;
+    display: flex;text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
+.eni{
+    background-color: #ffebcd;
+    padding: 60px 45px;
+    line-height: 1.6;
+}
+.ton{
+    background-color: #f5deb3;
+    display: flex;text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
+.kg{
+    background-color: #f5deb3;
+    display: flex;text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.1rem; 
+}
+.metri{
+    background-color: #f5deb3;
+    display: flex;text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
